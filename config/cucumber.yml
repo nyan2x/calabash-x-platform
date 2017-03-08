@@ -1,3 +1,3 @@
-android: PLATFORM=android -r features/support -r features/android -r features/step_definitions -r features/android/pages -r features/android/support
+android: PLATFORM=android -r features/support -r features/step_definitions -r features/android/pages -r features/android/support
 
 #ios: PLATFORM=ios APP_BUNDLE_PATH=apps/ios/LPSimpleExample.app  -r features/support -r features/ios/support -r features/ios/helpers -r features/step_definitions -r features/ios/pages
