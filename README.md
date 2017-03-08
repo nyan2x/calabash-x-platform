@@ -18,7 +18,8 @@ I got my-calculator.apk
 11. `calabash-sandbox`
 12. `calabash-android run apps/android/my-calculator.apk -p android`
 
-###To Do:
-- test ios
+###Start ios
+1. Download Xcode Version 6 +
+2. `cucumber -p ios`
 
 ###Documentation [here](https://docs.google.com/document/d/1zvimfHh68jrUjHjxiEnj8Di2rdjQIW8JXzP-qCH-Ef8/edit?usp=sharing)
