@@ -1,9 +1,9 @@
-##Practice Calabash in a Cross-Platform ( Android and iOS )
+## Practice Calabash in a Cross-Platform ( Android and iOS )
 
 I got my-calculator.apk
 [here](https://www.youtube.com/watch?v=qqW94bvcuns)
 
-###Start Test Android:
+### Start Test Android:
 1. Install Android Studio
 2. Download android sdk
 3. Add android sdk location to $PATH
@@ -18,8 +18,8 @@ I got my-calculator.apk
 11. `calabash-sandbox`
 12. `calabash-android run apps/android/my-calculator.apk -p android`
 
-###Start ios
+### Start ios
 1. Download Xcode Version 6 +
 2. `cucumber -p ios`
 
-###Documentation [here](https://docs.google.com/document/d/1zvimfHh68jrUjHjxiEnj8Di2rdjQIW8JXzP-qCH-Ef8/edit?usp=sharing)
+### Documentation [here](https://docs.google.com/document/d/1zvimfHh68jrUjHjxiEnj8Di2rdjQIW8JXzP-qCH-Ef8/edit?usp=sharing)
